@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">journeyplanner</string>
+    <string name="destination">Destination</string>
+    <string name="startLoc">Start</string>
+    <string name="searchBtn">Search</string>
+    <string name="refresh">Refresh map</string>
+    <string name="close">Close</string>
+    <string name="centreMap">Centre map</string>
+    <string name="clearRoute">Clear Route</string>
+</resources>
